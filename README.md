@@ -1,6 +1,7 @@
 # 📎 꽃 보러 갈래?(팀명: 아름답조)
 ![image](https://user-images.githubusercontent.com/25995055/178401309-2a2ffc86-ef45-439b-bfd8-6978312100bc.png)
 
+![image](https://github.com/SSUZZY/33/assets/95944864/5c1d824f-965b-417d-8e86-63830f5e3a34)
 
 ## 👀 서비스 소개
 * 서비스명:  꽃 개화 시기별 우리 지역 근처 데이트/드라이브 추천 장소 및 꽃 축제 추천 
@@ -104,6 +105,9 @@
 ### 일정/고객센터
 ![image](https://user-images.githubusercontent.com/25995055/178401150-861f0e93-0f40-4fae-98c1-2099bf513c8d.png)
 <br>
+![alarm](https://github.com/SSUZZY/33/assets/95944864/2e01c7c8-da60-444f-9cae-748b5398ede1)
+
+
 
 ## 👨‍👩‍👦‍👦 팀원 역할
 <table>
