@@ -8,6 +8,8 @@
 * 서비스설명: 
 <br>
 
+<img src="https://img.shields.io/badge/aeromexico-#E30E17?style=for-the-badge&logo=aeromexico&logoColor=white"/>
+
 ## 📅 프로젝트 기간
 2022.04.22 ~ 2022.06.03 (6주)
 <br>
